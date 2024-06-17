@@ -3,8 +3,7 @@ title: Bloccare chiamate di telemarketing
 description: Dal 27 Luglio 2022 è stata estesa la possibilità di iscrizione al
   Registro pubblico delle opposizioni anche ai cellulari, dunque è possibile
   iscriversi gratuitamente sul sito del governo per bloccate chiamate
-  indesiderate sul proprio numero di cellulare. Viene inoltre precisato che con
-  la mancata iscrizione vale il principio del silenzio-assenso.
+  indesiderate sul proprio numero di cellulare.
 author: Anonymous
 date: 2024-06-17T16:42:00.000Z
 tags:

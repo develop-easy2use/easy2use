@@ -9,6 +9,7 @@ author: Anonymous
 date: 2024-06-17T16:42:00.000Z
 tags:
   - post
+  - featured
 image: /assets/blog/chiamate-spam-tta.webp
 imageAlt: Bloccare chiamate di telemarketing
 ---

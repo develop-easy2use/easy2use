@@ -12,12 +12,12 @@ tags:
 image: /assets/blog/chiamate-spam-tta.webp
 imageAlt: Bloccare chiamate di telemarketing
 ---
+### Come attivare il servizio?
 
-
-Come attivare il servizio?
-
-Basta accedere al seguente link e selezionare la voce Entra sulla sezione "Per il cittadino".\
+Basta accedere [al seguente link](https://registrodelleopposizioni.it) e selezionare la voce Entra sulla sezione "Per il cittadino".\
 A questo punto selezionare la voce "ISCRIVITI" e seguire i passaggi indicati sul sito.\
 L'iscrizione può essere fatta anche con SPID.
 
-Obblighi per gli operatori di telemarketing>Gli operatori di telemarketing che utilizzano per le proprie campagne i numeri presenti negli elenchi telefonici pubblici sono tenuti a registrarsi al sistema e a comunicare preventivamente al Gestore del Registro le liste dei numeri che intendono contattare.
+### Obblighi per gli operatori di telemarketing
+
+Gli operatori di telemarketing che utilizzano per le proprie campagne i numeri presenti negli elenchi telefonici pubblici sono tenuti a registrarsi al sistema e a comunicare preventivamente al Gestore del Registro le liste dei numeri che intendono contattare.

@@ -288,6 +288,16 @@ section,
     opacity: .9;
   }
 
+  .main-article a{
+    color: var(--clr-primary-400);
+    text-decoration: none;
+  }
+  .main-article a:focus,
+  .main-article a:hover {
+    color: var(--clr-neutral-900);
+    text-decoration: none;
+  }
+
 /* //////////////////////
   Article snippets
   /////////////////////// */
